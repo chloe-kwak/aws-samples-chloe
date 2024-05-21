@@ -1,0 +1,22 @@
+{
+  "dataset_revision": "fd20d54141b6da952d5c68a2989472892489da0f",
+  "mteb_dataset_name": "NTREXBitextMining",
+  "mteb_version": "1.8.6",
+  "test": {
+    "eng_Latn-kor_Hang": {
+      "accuracy": 0.8647971957936905,
+      "f1": 0.828242363545318,
+      "main_score": 0.828242363545318,
+      "precision": 0.8118093807377733,
+      "recall": 0.8647971957936905
+    },
+    "evaluation_time": 596.43,
+    "kor_Hang-eng_Latn": {
+      "accuracy": 0.8617926890335503,
+      "f1": 0.8241779335670173,
+      "main_score": 0.8241779335670173,
+      "precision": 0.8072406228390204,
+      "recall": 0.8617926890335503
+    }
+  }
+}
